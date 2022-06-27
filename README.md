@@ -8,3 +8,5 @@
 hishiki-teruyoshi/hishiki-teruyoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+A guide to the branches:
+For lecture notes on introduction to data science, go to "Lectures in introduction to data science" branch. 
